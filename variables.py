@@ -5,7 +5,6 @@ import os
 print('Hello World')
 
 # comment
-
 '''
 multiline comment
 '''
@@ -27,3 +26,8 @@ print('5**2=',5**2)
 print('5//2=',5//2)
 print('1+2-3*2 = ',1+2-3*2)
 print('(1+2-3)*2=',(1+2-3)*2)
+
+multilineQuote = ''' ok, this is nice
+no
+seriously, very nice!
+kudos!'''

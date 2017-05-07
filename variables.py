@@ -32,5 +32,8 @@ no
 seriously, very nice!
 kudos!'''
 
-print("%s %s %s %s" % ('a', "b", "c",'d'))
+print("%s %s %s %s" % ('a', "b", "c", multilineQuote))
 print ("%s" % "test")
+
+print('I don\'t like ', end='')
+print('new lines')

@@ -18,3 +18,12 @@ number = 12
 print (name)
 print (bolean)
 print (number)
+
+print('5+2=',5+2)
+print('5-2=',5-2)
+print('5*2=',5*2)
+print('5/2=',5/2)
+print('5**2=',5**2)
+print('5//2=',5//2)
+print('1+2-3*2 = ',1+2-3*2)
+print('(1+2-3)*2=',(1+2-3)*2)

@@ -1,0 +1,9 @@
+import random
+import sys
+import os
+
+grocery_list = ["Juice",'tomatoes','Potatoes','Banannas']
+
+grocery_list[0] = "green Juice"
+
+print("First item %s" % grocery_list[0])

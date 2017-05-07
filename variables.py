@@ -31,3 +31,6 @@ multilineQuote = ''' ok, this is nice
 no
 seriously, very nice!
 kudos!'''
+
+print("%s %s %s %s" % ('a', "b", "c",'d'))
+print ("%s" % "test")

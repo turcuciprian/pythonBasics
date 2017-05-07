@@ -35,5 +35,8 @@ kudos!'''
 print("%s %s %s %s" % ('a', "b", "c", multilineQuote))
 print ("%s" % "test")
 
+print('\n'*5)
+
 print('I don\'t like ', end='')
 print('new lines')
+

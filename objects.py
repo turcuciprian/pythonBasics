@@ -99,3 +99,6 @@ test_animals = AnimalTesting()
 
 test_animals.getType(spot)
 test_animals.getType(cat)
+
+spot.multiple_Sounds(4)
+spot.multiple_Sounds()

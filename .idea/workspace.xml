@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b52f0866-4423-4520-ac84-c9ac67e0ea68" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dictionaries.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tuple.py" afterPath="$PROJECT_DIR$/tuple.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,13 +15,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tuple.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tuple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="150">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dictionaries.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dictionaries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,6 +55,7 @@
         <option value="$PROJECT_DIR$/variables.py" />
         <option value="$PROJECT_DIR$/lists" />
         <option value="$PROJECT_DIR$/tuple.py" />
+        <option value="$PROJECT_DIR$/dictionaries.py" />
       </list>
     </option>
   </component>
@@ -108,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tuple">
+  <component name="RunManager" selected="Python.dictionaries">
     <configuration default="false" name="variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,6 +171,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonBasics" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonBasics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,16 +258,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.variables" />
       <item index="1" class="java.lang.String" itemvalue="Python.lists" />
       <item index="2" class="java.lang.String" itemvalue="Python.tuple" />
+      <item index="3" class="java.lang.String" itemvalue="Python.dictionaries" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.tuple" />
-        <item index="1" class="java.lang.String" itemvalue="Python.lists" />
-        <item index="2" class="java.lang.String" itemvalue="Python.variables" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.dictionaries" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tuple" />
+        <item index="2" class="java.lang.String" itemvalue="Python.lists" />
+        <item index="3" class="java.lang.String" itemvalue="Python.variables" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494275544888</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="using min max len on tuples">
+      <created>1494275683663</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1494275683663</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -346,7 +386,8 @@
     <MESSAGE value="fidle-ing with arrays" />
     <MESSAGE value="finalizing" />
     <MESSAGE value="creating touples&#10;converting to lists and back" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating touples&#10;converting to lists and back" />
+    <MESSAGE value="using min max len on tuples" />
+    <option name="LAST_COMMIT_MESSAGE" value="using min max len on tuples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -383,10 +424,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>

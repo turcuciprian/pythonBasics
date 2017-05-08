@@ -90,3 +90,12 @@ class Dog(Animal):
 spot = Dog('Spot', 53, 27,'Ruff','Cip')
 
 print(spot.toString())
+
+class AnimalTesting:
+    def getType(self,animal):
+        animal.get_type()
+
+test_animals = AnimalTesting()
+
+test_animals.getType(spot)
+test_animals.getType(cat)

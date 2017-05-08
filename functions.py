@@ -10,3 +10,10 @@ def addNumber(fNum, lNum):
 
 stringx = addNumber(1,4)
 print(stringx)
+
+
+print('what is your name?')
+
+name = sys.stdin.readline()
+
+print('hello', name)

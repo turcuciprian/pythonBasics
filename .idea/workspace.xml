@@ -18,8 +18,8 @@
       <file leaf-file-name="functions.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="37" column="64" lean-forward="false" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
+            <state relative-caret-position="273">
+              <caret line="39" column="47" lean-forward="false" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -480,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494280217214</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="replacing string">
+      <created>1494280863922</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1494280863922</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -511,7 +518,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added multiline quotes" />
     <MESSAGE value="multiple values string type print using %s" />
     <MESSAGE value="no new lines" />
     <MESSAGE value="Adding 5 new lines" />
@@ -536,7 +542,8 @@
     <MESSAGE value="concatenating part of a string with another string" />
     <MESSAGE value="example managing different variable types in the print statement" />
     <MESSAGE value="identifying numbers&#10;checking if all characters are letters&#10;finding the index position of a string inside a string&#10;capitalizing the string&#10;changing the case on the string" />
-    <option name="LAST_COMMIT_MESSAGE" value="identifying numbers&#10;checking if all characters are letters&#10;finding the index position of a string inside a string&#10;capitalizing the string&#10;changing the case on the string" />
+    <MESSAGE value="replacing string" />
+    <option name="LAST_COMMIT_MESSAGE" value="replacing string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -613,8 +620,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="37" column="64" lean-forward="false" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
+        <state relative-caret-position="273">
+          <caret line="39" column="47" lean-forward="false" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

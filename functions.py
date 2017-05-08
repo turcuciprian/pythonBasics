@@ -36,3 +36,5 @@ print(longstring.isalnum()) # if there are only numbers in the string - nothing 
 
 print(len(longstring)) # length of the string
 print(longstring.replace("floor",'ceiling')) # replacing strings
+
+print(longstring.strip()) #stripping whitespace

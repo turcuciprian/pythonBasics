@@ -20,4 +20,6 @@ import os
 
 longstring = "I'll catch you if you fall - the floor"
 
-print(longstring[0:4])
+print(longstring[0:4]) # first 4 characters
+print(longstring[-5:]) # the last 5 characters from a string
+print(longstring[:-5]) # everything up to the last 5 characters

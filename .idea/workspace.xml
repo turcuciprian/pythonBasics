@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b52f0866-4423-4520-ac84-c9ac67e0ea68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/objects.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/objects.py" afterPath="$PROJECT_DIR$/objects.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +18,8 @@
       <file leaf-file-name="objects.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/objects.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="180">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -117,25 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fileIO">
-    <configuration default="false" name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonBasics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.objects">
     <configuration default="false" name="conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,6 +190,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="objects" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonBasics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objects.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,19 +273,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.dictionaries" />
-      <item index="1" class="java.lang.String" itemvalue="Python.conditionals" />
-      <item index="2" class="java.lang.String" itemvalue="Python.looping" />
-      <item index="3" class="java.lang.String" itemvalue="Python.functions" />
-      <item index="4" class="java.lang.String" itemvalue="Python.fileIO" />
+      <item index="0" class="java.lang.String" itemvalue="Python.conditionals" />
+      <item index="1" class="java.lang.String" itemvalue="Python.looping" />
+      <item index="2" class="java.lang.String" itemvalue="Python.functions" />
+      <item index="3" class="java.lang.String" itemvalue="Python.fileIO" />
+      <item index="4" class="java.lang.String" itemvalue="Python.objects" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.fileIO" />
-        <item index="1" class="java.lang.String" itemvalue="Python.functions" />
-        <item index="2" class="java.lang.String" itemvalue="Python.looping" />
-        <item index="3" class="java.lang.String" itemvalue="Python.conditionals" />
-        <item index="4" class="java.lang.String" itemvalue="Python.dictionaries" />
+        <item index="0" class="java.lang.String" itemvalue="Python.objects" />
+        <item index="1" class="java.lang.String" itemvalue="Python.fileIO" />
+        <item index="2" class="java.lang.String" itemvalue="Python.functions" />
+        <item index="3" class="java.lang.String" itemvalue="Python.looping" />
+        <item index="4" class="java.lang.String" itemvalue="Python.conditionals" />
       </list>
     </recent_temporary>
   </component>
@@ -538,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494281514570</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="getters and setters to the private variables of the function">
+      <created>1494281863303</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1494281863303</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -569,7 +576,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="creating touples&#10;converting to lists and back" />
     <MESSAGE value="using min max len on tuples" />
     <MESSAGE value="playing with dictionaries" />
     <MESSAGE value="playing with if" />
@@ -594,7 +600,8 @@
     <MESSAGE value="reading and writing from a file" />
     <MESSAGE value="closing the file" />
     <MESSAGE value="writing and deleting the file" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing and deleting the file" />
+    <MESSAGE value="getters and setters to the private variables of the function" />
+    <option name="LAST_COMMIT_MESSAGE" value="getters and setters to the private variables of the function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -699,8 +706,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/objects.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="180">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

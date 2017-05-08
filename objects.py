@@ -8,6 +8,12 @@ class Animal:
     __weight = 0
     __sound = 0
 # getters and setters
+    def __init__(self,name, height, weight, sound):
+        self.__name = name
+        self.__height= weight
+        self.__weight = weight
+        self.__sound = sound
+
 
 #     name
     def set_name(self, name):

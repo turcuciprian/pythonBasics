@@ -24,3 +24,4 @@ print(longstring[0:4]) # first 4 characters
 print(longstring[-5:]) # the last 5 characters from a string
 print(longstring[:-5]) # everything up to the last 5 characters
 print(longstring[:4]+' be there') # concatenating a part of a string with another string
+print('%c is my %s letter and my number %d number is %.5f' % ('X','favorite',1,.14))

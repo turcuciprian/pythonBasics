@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b52f0866-4423-4520-ac84-c9ac67e0ea68" name="Default" comment="closing the file">
+    <list default="true" id="b52f0866-4423-4520-ac84-c9ac67e0ea68" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/objects.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fileIO.py" afterPath="$PROJECT_DIR$/fileIO.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fileIO.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fileIO.py">
+      <file leaf-file-name="objects.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/objects.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="182">
+              <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -48,6 +48,7 @@
         <option value="$PROJECT_DIR$/looping.py" />
         <option value="$PROJECT_DIR$/functions.py" />
         <option value="$PROJECT_DIR$/fileIO.py" />
+        <option value="$PROJECT_DIR$/objects.py" />
       </list>
     </option>
   </component>
@@ -530,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494281315192</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="writing and deleting the file">
+      <created>1494281514570</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1494281514570</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -561,7 +569,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finalizing" />
     <MESSAGE value="creating touples&#10;converting to lists and back" />
     <MESSAGE value="using min max len on tuples" />
     <MESSAGE value="playing with dictionaries" />
@@ -586,7 +593,8 @@
     <MESSAGE value="started fileIO" />
     <MESSAGE value="reading and writing from a file" />
     <MESSAGE value="closing the file" />
-    <option name="LAST_COMMIT_MESSAGE" value="closing the file" />
+    <MESSAGE value="writing and deleting the file" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing and deleting the file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -681,8 +689,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileIO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

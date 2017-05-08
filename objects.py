@@ -49,9 +49,34 @@ class Animal:
 
     def toString(self):
         return "{} is {} cm tall and {} kilograms and says {}".format(self.__name,
-                                                                     self.__height,
-                                                                     self.__weight,
-                                                                     self.__sound)
+                                                                      self.__height,
+                                                                      self.__weight,
+                                                                      self.__sound)
 
-cat = Animal('Wiskers',33,10,'miau')
+
+cat = Animal('Wiskers', 33, 10, 'miau')
 print(cat.toString())
+
+
+class Dog(Animal):
+    __owner = ""
+
+    def __init__(self, name, height, weight, sound, owner):
+        self.__owner = owner
+        super(Dog, self).__init__(name, height, weight, sound)
+
+    def set_owner(self, owner):
+        self.__owner = owner
+
+    def get_owner(self):
+        return self.__owner
+
+    def get_type(self):
+        print('Dog')
+
+    def toString(self):
+        return "{} is {} cm tall and {} kilograms and says {} and his owner is {}".format(self.__name,
+                                                                                          self.__height,
+                                                                                          self.__weight,
+                                                                                          self.__sound,
+                                                                                          self.__owner)

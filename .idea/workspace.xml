@@ -42,8 +42,8 @@
       <file leaf-file-name="conditionals.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conditionals.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="285">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -137,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dictionaries">
+  <component name="RunManager" selected="Python.conditionals">
     <configuration default="false" name="variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,6 +210,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonBasics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conditionals.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,18 +292,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.variables" />
       <item index="1" class="java.lang.String" itemvalue="Python.lists" />
       <item index="2" class="java.lang.String" itemvalue="Python.tuple" />
       <item index="3" class="java.lang.String" itemvalue="Python.dictionaries" />
+      <item index="4" class="java.lang.String" itemvalue="Python.conditionals" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.dictionaries" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tuple" />
-        <item index="2" class="java.lang.String" itemvalue="Python.lists" />
-        <item index="3" class="java.lang.String" itemvalue="Python.variables" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.conditionals" />
+        <item index="1" class="java.lang.String" itemvalue="Python.dictionaries" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tuple" />
+        <item index="3" class="java.lang.String" itemvalue="Python.lists" />
+        <item index="4" class="java.lang.String" itemvalue="Python.variables" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494277336973</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="elif and else">
+      <created>1494277386753</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1494277386753</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -395,7 +422,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -426,7 +453,8 @@
     <MESSAGE value="using min max len on tuples" />
     <MESSAGE value="playing with dictionaries" />
     <MESSAGE value="playing with if" />
-    <option name="LAST_COMMIT_MESSAGE" value="playing with if" />
+    <MESSAGE value="elif and else" />
+    <option name="LAST_COMMIT_MESSAGE" value="elif and else" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -483,8 +511,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conditionals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="285">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

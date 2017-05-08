@@ -10,3 +10,5 @@ print(test_file.name)
 
 
 test_file.write(bytes('write me to the file\n','UTF-8'))
+
+test_file.close()

@@ -75,8 +75,18 @@ class Dog(Animal):
         print('Dog')
 
     def toString(self):
-        return "{} is {} cm tall and {} kilograms and says {} and his owner is {}".format(self.__name,
-                                                                                          self.__height,
-                                                                                          self.__weight,
-                                                                                          self.__sound,
+         return "{} is {} cm tall and {} kilograms and says {} and his owner is {}".format(self.get_name(),
+                                                                                           self.get_height(),
+                                                                                           self.get_weight(),
+                                                                                           self.get_sound(),
                                                                                           self.__owner)
+
+    def multiple_Sounds(self,howMany = None):
+        if howMany is None:
+            print(self.get_sound())
+        else:
+            print(self.get_sound()*howMany)
+
+spot = Dog('Spot', 53, 27,'Ruff','Cip')
+
+print(spot.toString())

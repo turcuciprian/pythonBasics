@@ -18,8 +18,8 @@
       <file leaf-file-name="objects.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/objects.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="76" column="23" lean-forward="true" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
+            <state relative-caret-position="255">
+              <caret line="89" column="34" lean-forward="true" selection-start-line="89" selection-start-column="34" selection-end-line="89" selection-end-column="34" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -559,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494282499083</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="created a new class and inherited from the previous one&#10;overwrote some functions">
+      <created>1494282979389</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1494282979389</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -590,7 +597,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="playing with if" />
     <MESSAGE value="elif and else" />
     <MESSAGE value="more elif and else with and &amp; or" />
     <MESSAGE value="started looping" />
@@ -615,7 +621,8 @@
     <MESSAGE value="getters and setters to the private variables of the function" />
     <MESSAGE value="created a constructor with parameters" />
     <MESSAGE value="added get_type and toString returning a string from the variables declared" />
-    <option name="LAST_COMMIT_MESSAGE" value="added get_type and toString returning a string from the variables declared" />
+    <MESSAGE value="created a new class and inherited from the previous one&#10;overwrote some functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a new class and inherited from the previous one&#10;overwrote some functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -720,8 +727,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/objects.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="76" column="23" lean-forward="true" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
+        <state relative-caret-position="255">
+          <caret line="89" column="34" lean-forward="true" selection-start-line="89" selection-start-column="34" selection-end-line="89" selection-end-column="34" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

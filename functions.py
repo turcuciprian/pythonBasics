@@ -38,3 +38,6 @@ print(len(longstring)) # length of the string
 print(longstring.replace("floor",'ceiling')) # replacing strings
 
 print(longstring.strip()) #stripping whitespace
+
+tempList = longstring.split(' ')
+print(tempList)

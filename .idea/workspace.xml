@@ -18,8 +18,8 @@
       <file leaf-file-name="objects.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/objects.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="169">
+              <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -545,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494281863303</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="created a constructor with parameters">
+      <created>1494282210860</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1494282210860</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -576,7 +583,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="using min max len on tuples" />
     <MESSAGE value="playing with dictionaries" />
     <MESSAGE value="playing with if" />
     <MESSAGE value="elif and else" />
@@ -601,7 +607,8 @@
     <MESSAGE value="closing the file" />
     <MESSAGE value="writing and deleting the file" />
     <MESSAGE value="getters and setters to the private variables of the function" />
-    <option name="LAST_COMMIT_MESSAGE" value="getters and setters to the private variables of the function" />
+    <MESSAGE value="created a constructor with parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a constructor with parameters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -686,14 +693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileIO.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -704,10 +703,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/objects.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="169">
+          <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

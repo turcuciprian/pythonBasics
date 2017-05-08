@@ -17,6 +17,12 @@ print(to_do_list[0][0])
 
 grocery_list.append('onions')
 grocery_list.insert(1,'pickle')
+grocery_list.remove('pickle')
 grocery_list.sort()
 del grocery_list[4]
 print('done')
+
+todolist2 = other_events+grocery_list
+
+print(len(todolist2))
+print(max(todolist2))

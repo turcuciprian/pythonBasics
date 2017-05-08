@@ -30,8 +30,8 @@
       <file leaf-file-name="lists" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lists">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="179">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -277,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494194419438</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fidle-ing with arrays">
+      <created>1494272821678</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1494272821678</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -313,7 +320,8 @@
     <MESSAGE value="no new lines" />
     <MESSAGE value="Adding 5 new lines" />
     <MESSAGE value="created a list, printing out first item&#10;changed first item" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a list, printing out first item&#10;changed first item" />
+    <MESSAGE value="fidle-ing with arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="fidle-ing with arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -340,8 +348,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lists">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="179">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

@@ -33,3 +33,6 @@ print('all characters are letters')
 print(longstring.isalpha()) #all string characters are string letters - no spaces or special characters
 print('there are numbers in the string')
 print(longstring.isalnum()) # if there are only numbers in the string - nothing but numbers
+
+print(len(longstring)) # length of the string
+print(longstring.replace("floor",'ceiling')) # replacing strings

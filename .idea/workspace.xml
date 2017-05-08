@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b52f0866-4423-4520-ac84-c9ac67e0ea68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dictionaries.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -347,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494275683663</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="playing with dictionaries">
+      <created>1494276923449</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1494276923449</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -387,7 +393,8 @@
     <MESSAGE value="finalizing" />
     <MESSAGE value="creating touples&#10;converting to lists and back" />
     <MESSAGE value="using min max len on tuples" />
-    <option name="LAST_COMMIT_MESSAGE" value="using min max len on tuples" />
+    <MESSAGE value="playing with dictionaries" />
+    <option name="LAST_COMMIT_MESSAGE" value="playing with dictionaries" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

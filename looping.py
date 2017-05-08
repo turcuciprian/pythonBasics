@@ -22,3 +22,10 @@ for y in grocery_list:
 for x in range(0,3):
     for y in range(0,3):
         print(num_list[x][y])
+
+print('----while loop------')
+random_num = random.randrange(0,100)
+
+while(random_num != 15):
+    print(random_num)
+    random_num = random.randrange(0,100)

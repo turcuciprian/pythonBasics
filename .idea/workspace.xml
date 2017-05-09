@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b52f0866-4423-4520-ac84-c9ac67e0ea68" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/objects.py" afterPath="$PROJECT_DIR$/objects.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/looping.py" afterPath="$PROJECT_DIR$/looping.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,14 +15,34 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="objects.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="objects.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/objects.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="94" column="29" lean-forward="true" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
+            <state relative-caret-position="120">
+              <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conditionals.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conditionals.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="looping.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/looping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -45,10 +65,10 @@
         <option value="$PROJECT_DIR$/tuple.py" />
         <option value="$PROJECT_DIR$/dictionaries.py" />
         <option value="$PROJECT_DIR$/conditionals.py" />
-        <option value="$PROJECT_DIR$/looping.py" />
         <option value="$PROJECT_DIR$/functions.py" />
         <option value="$PROJECT_DIR$/fileIO.py" />
         <option value="$PROJECT_DIR$/objects.py" />
+        <option value="$PROJECT_DIR$/looping.py" />
       </list>
     </option>
   </component>
@@ -117,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.objects">
+  <component name="RunManager" selected="Python.looping">
     <configuration default="false" name="conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,10 +301,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.objects" />
-        <item index="1" class="java.lang.String" itemvalue="Python.fileIO" />
-        <item index="2" class="java.lang.String" itemvalue="Python.functions" />
-        <item index="3" class="java.lang.String" itemvalue="Python.looping" />
+        <item index="0" class="java.lang.String" itemvalue="Python.looping" />
+        <item index="1" class="java.lang.String" itemvalue="Python.objects" />
+        <item index="2" class="java.lang.String" itemvalue="Python.fileIO" />
+        <item index="3" class="java.lang.String" itemvalue="Python.functions" />
         <item index="4" class="java.lang.String" itemvalue="Python.conditionals" />
       </list>
     </recent_temporary>
@@ -573,7 +593,21 @@
       <option name="project" value="LOCAL" />
       <updated>1494284275203</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="polymorphism">
+      <created>1494284470172</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1494284470172</updated>
+    </task>
+    <task id="LOCAL-00041" summary="finished the examples">
+      <created>1494284642430</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1494284642430</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -604,8 +638,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="more elif and else with and &amp; or" />
-    <MESSAGE value="started looping" />
     <MESSAGE value="2 for's examples" />
     <MESSAGE value="loop inside loop , multidimensional list" />
     <MESSAGE value="starting while loop testing" />
@@ -629,7 +661,9 @@
     <MESSAGE value="added get_type and toString returning a string from the variables declared" />
     <MESSAGE value="created a new class and inherited from the previous one&#10;overwrote some functions" />
     <MESSAGE value="added multiple sounds function to dog class&#10;the tostring in the dog class returns the getters as variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="added multiple sounds function to dog class&#10;the tostring in the dog class returns the getters as variables" />
+    <MESSAGE value="polymorphism" />
+    <MESSAGE value="finished the examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished the examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -664,16 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conditionals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dictionaries.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -690,16 +714,6 @@
           <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
             <element signature="e#0#9#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/looping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -734,11 +748,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/objects.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="94" column="29" lean-forward="true" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
+        <state relative-caret-position="120">
+          <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditionals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/looping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>

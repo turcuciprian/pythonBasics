@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b52f0866-4423-4520-ac84-c9ac67e0ea68" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizbuz.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/looping.py" afterPath="$PROJECT_DIR$/looping.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,33 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="objects.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/objects.py">
+      <file leaf-file-name="fizbuz.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fizbuz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conditionals.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conditionals.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="looping.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/looping.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+            <state relative-caret-position="105">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -69,6 +47,7 @@
         <option value="$PROJECT_DIR$/fileIO.py" />
         <option value="$PROJECT_DIR$/objects.py" />
         <option value="$PROJECT_DIR$/looping.py" />
+        <option value="$PROJECT_DIR$/fizbuz.py" />
       </list>
     </option>
   </component>
@@ -137,25 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.looping">
-    <configuration default="false" name="conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonBasics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conditionals.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.fizbuz">
     <configuration default="false" name="looping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,6 +189,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="fizbuz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonBasics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fizbuz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,19 +272,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.conditionals" />
-      <item index="1" class="java.lang.String" itemvalue="Python.looping" />
-      <item index="2" class="java.lang.String" itemvalue="Python.functions" />
-      <item index="3" class="java.lang.String" itemvalue="Python.fileIO" />
-      <item index="4" class="java.lang.String" itemvalue="Python.objects" />
+      <item index="0" class="java.lang.String" itemvalue="Python.looping" />
+      <item index="1" class="java.lang.String" itemvalue="Python.functions" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fileIO" />
+      <item index="3" class="java.lang.String" itemvalue="Python.objects" />
+      <item index="4" class="java.lang.String" itemvalue="Python.fizbuz" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.looping" />
-        <item index="1" class="java.lang.String" itemvalue="Python.objects" />
-        <item index="2" class="java.lang.String" itemvalue="Python.fileIO" />
-        <item index="3" class="java.lang.String" itemvalue="Python.functions" />
-        <item index="4" class="java.lang.String" itemvalue="Python.conditionals" />
+        <item index="0" class="java.lang.String" itemvalue="Python.fizbuz" />
+        <item index="1" class="java.lang.String" itemvalue="Python.looping" />
+        <item index="2" class="java.lang.String" itemvalue="Python.objects" />
+        <item index="3" class="java.lang.String" itemvalue="Python.fileIO" />
+        <item index="4" class="java.lang.String" itemvalue="Python.functions" />
       </list>
     </recent_temporary>
   </component>
@@ -607,7 +586,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494284642430</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="range step usage">
+      <created>1494319216559</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1494319216559</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -638,7 +624,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2 for's examples" />
     <MESSAGE value="loop inside loop , multidimensional list" />
     <MESSAGE value="starting while loop testing" />
     <MESSAGE value="did a basic while, showing odd numbers and stopping at 9" />
@@ -663,7 +648,8 @@
     <MESSAGE value="added multiple sounds function to dog class&#10;the tostring in the dog class returns the getters as variables" />
     <MESSAGE value="polymorphism" />
     <MESSAGE value="finished the examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished the examples" />
+    <MESSAGE value="range step usage" />
+    <option name="LAST_COMMIT_MESSAGE" value="range step usage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -746,6 +732,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/looping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditionals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/objects.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -756,18 +758,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conditionals.py">
+    <entry file="file://$PROJECT_DIR$/fizbuz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/looping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        <state relative-caret-position="105">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
           <folding />
         </state>
       </provider>

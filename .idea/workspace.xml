@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b52f0866-4423-4520-ac84-c9ac67e0ea68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fibonaci.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fibonaci.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fibonaci.py">
+      <file leaf-file-name="file.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="120">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -49,6 +49,7 @@
         <option value="$PROJECT_DIR$/looping.py" />
         <option value="$PROJECT_DIR$/fizbuz.py" />
         <option value="$PROJECT_DIR$/fibonaci.py" />
+        <option value="$PROJECT_DIR$/file.py" />
       </list>
     </option>
   </component>
@@ -117,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fibonaci">
+  <component name="RunManager" selected="Python.file">
     <configuration default="false" name="looping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,24 +132,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonBasics" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/looping.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="fileIO" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonBasics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileIO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,6 +186,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonBasics" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibonaci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonBasics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,18 +275,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.looping" />
-      <item index="1" class="java.lang.String" itemvalue="Python.fileIO" />
-      <item index="2" class="java.lang.String" itemvalue="Python.objects" />
-      <item index="3" class="java.lang.String" itemvalue="Python.fizbuz" />
-      <item index="4" class="java.lang.String" itemvalue="Python.fibonaci" />
+      <item index="1" class="java.lang.String" itemvalue="Python.objects" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fizbuz" />
+      <item index="3" class="java.lang.String" itemvalue="Python.fibonaci" />
+      <item index="4" class="java.lang.String" itemvalue="Python.file" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.fibonaci" />
-        <item index="1" class="java.lang.String" itemvalue="Python.fizbuz" />
-        <item index="2" class="java.lang.String" itemvalue="Python.looping" />
-        <item index="3" class="java.lang.String" itemvalue="Python.objects" />
-        <item index="4" class="java.lang.String" itemvalue="Python.fileIO" />
+        <item index="0" class="java.lang.String" itemvalue="Python.file" />
+        <item index="1" class="java.lang.String" itemvalue="Python.fibonaci" />
+        <item index="2" class="java.lang.String" itemvalue="Python.fizbuz" />
+        <item index="3" class="java.lang.String" itemvalue="Python.looping" />
+        <item index="4" class="java.lang.String" itemvalue="Python.objects" />
       </list>
     </recent_temporary>
   </component>
@@ -601,7 +602,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494348366844</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="implemented fibonaci">
+      <created>1494348857996</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1494348857996</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -612,7 +620,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -632,7 +640,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="starting while loop testing" />
     <MESSAGE value="did a basic while, showing odd numbers and stopping at 9" />
     <MESSAGE value="first function" />
     <MESSAGE value="used a input method and outputed the string" />
@@ -657,7 +664,8 @@
     <MESSAGE value="finished the examples" />
     <MESSAGE value="range step usage" />
     <MESSAGE value="fizzbuzz" />
-    <option name="LAST_COMMIT_MESSAGE" value="fizzbuzz" />
+    <MESSAGE value="implemented fibonaci" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented fibonaci" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -777,7 +785,15 @@
     <entry file="file://$PROJECT_DIR$/fibonaci.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding />
         </state>
       </provider>

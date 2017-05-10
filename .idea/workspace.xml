@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b52f0866-4423-4520-ac84-c9ac67e0ea68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/httprequest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/other2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/httprequest.py" afterPath="$PROJECT_DIR$/httprequest.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,21 +36,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="httprequest.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="httprequest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/httprequest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generators.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="generators.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generators.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="other2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/other2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -82,8 +92,9 @@
         <option value="$PROJECT_DIR$/fibonaci.py" />
         <option value="$PROJECT_DIR$/file.py" />
         <option value="$PROJECT_DIR$/other1.py" />
-        <option value="$PROJECT_DIR$/httprequest.py" />
         <option value="$PROJECT_DIR$/generators.py" />
+        <option value="$PROJECT_DIR$/other2.py" />
+        <option value="$PROJECT_DIR$/httprequest.py" />
       </list>
     </option>
   </component>
@@ -152,25 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.generators">
-    <configuration default="false" name="fibonaci" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonBasics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibonaci.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in other2.py">
     <configuration default="false" name="file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,6 +236,21 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="Unittests in other2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonBasics" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/other2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,19 +316,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.fibonaci" />
-      <item index="1" class="java.lang.String" itemvalue="Python.file" />
-      <item index="2" class="java.lang.String" itemvalue="Python.other1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.httprequest" />
-      <item index="4" class="java.lang.String" itemvalue="Python.generators" />
+      <item index="0" class="java.lang.String" itemvalue="Python.file" />
+      <item index="1" class="java.lang.String" itemvalue="Python.other1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.httprequest" />
+      <item index="3" class="java.lang.String" itemvalue="Python.generators" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in other2.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.generators" />
-        <item index="1" class="java.lang.String" itemvalue="Python.httprequest" />
-        <item index="2" class="java.lang.String" itemvalue="Python.other1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.file" />
-        <item index="4" class="java.lang.String" itemvalue="Python.fibonaci" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in other2.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.generators" />
+        <item index="2" class="java.lang.String" itemvalue="Python.httprequest" />
+        <item index="3" class="java.lang.String" itemvalue="Python.other1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.file" />
       </list>
     </recent_temporary>
   </component>
@@ -657,8 +665,47 @@
       <option name="project" value="LOCAL" />
       <updated>1494399303367</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="generators">
+      <created>1494401282316</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1494401282316</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_other2_py - 2017.05.10 at 10h 29m 00s.xml">
+      <configuration name="Unittests in other2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_other2_py - 2017.05.10 at 10h 29m 03s.xml">
+      <configuration name="Unittests in other2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_other2_py - 2017.05.10 at 10h 29m 08s.xml">
+      <configuration name="Unittests in other2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_other2_py - 2017.05.10 at 10h 29m 22s.xml">
+      <configuration name="Unittests in other2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_other2_py - 2017.05.10 at 10h 29m 25s.xml">
+      <configuration name="Unittests in other2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_other2_py - 2017.05.10 at 10h 29m 30s.xml">
+      <configuration name="Unittests in other2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_other2_py - 2017.05.10 at 10h 29m 35s.xml">
+      <configuration name="Unittests in other2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_other2_py - 2017.05.10 at 10h 29m 41s.xml">
+      <configuration name="Unittests in other2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_other2_py - 2017.05.10 at 10h 29m 42s.xml">
+      <configuration name="Unittests in other2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_other2_py - 2017.05.10 at 10h 29m 43s.xml">
+      <configuration name="Unittests in other2.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="704" extended-state="6" />
@@ -668,7 +715,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="518" width="1280" height="208" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -688,7 +735,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="used a input method and outputed the string" />
     <MESSAGE value="commenting previous code, to play with strings" />
     <MESSAGE value="first 4 characters of a string&#10;last 5 characters of a string&#10;everything up to last five characters of a string" />
     <MESSAGE value="concatenating part of a string with another string" />
@@ -713,7 +759,8 @@
     <MESSAGE value="implemented fibonaci" />
     <MESSAGE value="listing the files in the current directory" />
     <MESSAGE value="mocking around with other stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="mocking around with other stuff" />
+    <MESSAGE value="generators" />
+    <option name="LAST_COMMIT_MESSAGE" value="generators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -846,14 +893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/httprequest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fibonaci.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -866,6 +905,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httprequest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>

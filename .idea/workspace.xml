@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b52f0866-4423-4520-ac84-c9ac67e0ea68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/other1.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file.py" afterPath="$PROJECT_DIR$/file.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +16,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="file.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="file.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="other1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/other1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -50,6 +61,7 @@
         <option value="$PROJECT_DIR$/fizbuz.py" />
         <option value="$PROJECT_DIR$/fibonaci.py" />
         <option value="$PROJECT_DIR$/file.py" />
+        <option value="$PROJECT_DIR$/other1.py" />
       </list>
     </option>
   </component>
@@ -118,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.file">
+  <component name="RunManager" selected="Python.other1">
     <configuration default="false" name="looping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,24 +144,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonBasics" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/looping.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="objects" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonBasics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objects.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,6 +198,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonBasics" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="other1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonBasics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/other1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,18 +287,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.looping" />
-      <item index="1" class="java.lang.String" itemvalue="Python.objects" />
-      <item index="2" class="java.lang.String" itemvalue="Python.fizbuz" />
-      <item index="3" class="java.lang.String" itemvalue="Python.fibonaci" />
-      <item index="4" class="java.lang.String" itemvalue="Python.file" />
+      <item index="1" class="java.lang.String" itemvalue="Python.fizbuz" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fibonaci" />
+      <item index="3" class="java.lang.String" itemvalue="Python.file" />
+      <item index="4" class="java.lang.String" itemvalue="Python.other1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.file" />
-        <item index="1" class="java.lang.String" itemvalue="Python.fibonaci" />
-        <item index="2" class="java.lang.String" itemvalue="Python.fizbuz" />
-        <item index="3" class="java.lang.String" itemvalue="Python.looping" />
-        <item index="4" class="java.lang.String" itemvalue="Python.objects" />
+        <item index="0" class="java.lang.String" itemvalue="Python.other1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.file" />
+        <item index="2" class="java.lang.String" itemvalue="Python.fibonaci" />
+        <item index="3" class="java.lang.String" itemvalue="Python.fizbuz" />
+        <item index="4" class="java.lang.String" itemvalue="Python.looping" />
       </list>
     </recent_temporary>
   </component>
@@ -609,7 +621,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494348857996</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="listing the files in the current directory">
+      <created>1494349640310</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1494349640310</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -620,7 +639,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -640,7 +659,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="did a basic while, showing odd numbers and stopping at 9" />
     <MESSAGE value="first function" />
     <MESSAGE value="used a input method and outputed the string" />
     <MESSAGE value="commenting previous code, to play with strings" />
@@ -665,7 +683,8 @@
     <MESSAGE value="range step usage" />
     <MESSAGE value="fizzbuzz" />
     <MESSAGE value="implemented fibonaci" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented fibonaci" />
+    <MESSAGE value="listing the files in the current directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="listing the files in the current directory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -792,8 +811,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding />
         </state>
       </provider>
